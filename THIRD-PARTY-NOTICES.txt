@@ -1,0 +1,16 @@
+FFmpeg attribution
+
+Powered by FFmpeg.
+FFmpeg is developed by the FFmpeg developers.
+Project and source: https://ffmpeg.org/
+Source downloads: https://ffmpeg.org/download.html
+License information: https://ffmpeg.org/legal.html
+LGPL 2.1: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+GPL 2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+GPL 3: https://www.gnu.org/licenses/gpl-3.0.html
+
+Easy MP3 to Video invokes a separately installed FFmpeg executable.
+No FFmpeg executables or libraries are included in this package.
+FFmpeg is licensed under LGPL 2.1 or later; builds with optional GPL components are governed by GPL. Refer to the license and source supplied with your chosen FFmpeg build for its exact terms.
+The MIT license for this application does not relicense FFmpeg or its components.
+FFmpeg is a trademark of Fabrice Bellard.

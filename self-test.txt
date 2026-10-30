@@ -1,0 +1,3 @@
+PASS: audio date, image date, title matching, encoding arguments
+FFmpeg: C:\Users\thehb\OneDrive\Documents\ffmpeg-2026-07-20-git-c23123630e-essentials_build\bin\ffmpeg.exe
+Matched image: C:\Users\thehb\OneDrive\Documents\Heartbeat Christian Radio\Coffee & The Bible\Promo-OCT-25.2026-Pray-Without-Ceasing-YouTube.jpg
